@@ -4,7 +4,6 @@
 ╔══════════════════════════════════════════════╗
 ║           CEBAN MARIUS                       ║
 ║           Web Developer & Designer           ║
-║           Based in Italy — Available WW      ║
 ╚══════════════════════════════════════════════╝
 ```
 

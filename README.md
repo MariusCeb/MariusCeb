@@ -45,10 +45,14 @@ PROJECTS
 01  mariusceb.github.io     Personal portfolio
 02  unishare                Full-stack university platform
                             Laravel · React · TypeScript · Inertia.js
-03  serenamente             Website for a wellness salon in Ravenna
-04  donkey-joe              Website for a cocktail bar in Ravenna
-05  ua-menu-pizzeria        Digital menu for a pizzeria in Ravenna
-06  spaceblog               Space-themed blog UI
+03  flavory                 GPT-4o food & wine pairing SaaS
+                            Node.js · OpenAI · Stripe · Railway
+04  fontara                 Live typography testing tool
+                            React · TypeScript · Vite
+05  serenamente             Website for a wellness salon in Ravenna
+06  donkey-joe              Website for a cocktail bar in Ravenna
+07  ua-menu-pizzeria        Digital menu for a pizzeria in Ravenna
+08  spaceblog               Space-themed blog UI
 ```
 
 ---

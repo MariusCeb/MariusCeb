@@ -17,7 +17,7 @@ ABOUT ME
 I'm a web developer and designer focused on building
 clean, intentional digital experiences.
 
-I care about the details — the spacing, the motion,
+I care about the details, the spacing, the motion,
 the way things feel when you use them.
 
 I work across the full stack but my passion sits at
@@ -45,8 +45,6 @@ PROJECTS
 01  mariusceb.github.io     Personal portfolio
 02  unishare                Full-stack university platform
                             Laravel · React · TypeScript · Inertia.js
-03  flavory                 GPT-4o food & wine pairing SaaS
-                            Node.js · OpenAI · Stripe · Railway
 04  fontara                 Live typography testing tool
                             React · TypeScript · Vite
 05  serenamente             Website for a wellness salon in Ravenna
